@@ -1,16 +1,7 @@
 # dropdownlistapi
 
-A new Flutter application.
+County and District
 
-## Getting Started
+![Simulator Screen Shot - iPhone 11 - 2021-03-08 at 15 19 17](https://user-images.githubusercontent.com/64318805/110322498-459c9600-8024-11eb-8dfa-0e1f0e11b9c1.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 11 - 2021-03-08 at 15 19 23](https://user-images.githubusercontent.com/64318805/110322703-97452080-8024-11eb-89be-99ee995b6a67.png)
