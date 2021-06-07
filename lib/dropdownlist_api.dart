@@ -150,7 +150,7 @@ class _DropDownListAPIState extends State<DropDownListAPI> {
     try {
       Dio dio = new Dio();
       Response response = await dio.post(
-          "https://servicedev.artinokta.com/api/reportservice/getcitylist",
+          "URL",
           data: {"cities": cities, "cityCode": cityCode, "cityName": cityName});
       setState(() {
         return citiesList = response.data["cities"];
@@ -169,7 +169,7 @@ class _DropDownListAPIState extends State<DropDownListAPI> {
     try {
       Dio dio = new Dio();
       Response response = await dio.post(
-          "https://servicedev.artinokta.com/api/reportservice/getdistrictlist",
+          "URL",
           data: {
             "districts": districts,
             "cityCode": _myCity,
